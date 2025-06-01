@@ -72,3 +72,9 @@
 - Search option
 
 ---
+
+## 👩‍💻 Author
+
+- **Venuja Shanmugarajah**  
+
+---
