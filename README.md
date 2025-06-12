@@ -73,8 +73,14 @@
 
 ---
 
+## 📄 License
+
+MIT License. Feel free to use and modify.
+
+---
+
 ## 👩‍💻 Author
 
 - **Venuja Shanmugarajah**  
-
----
+  Passionate about full-stack development | Sri Lanka 🇱🇰  
+  💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/venuja-shanmugarajah-432aa41ba)
